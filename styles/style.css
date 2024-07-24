@@ -15,10 +15,7 @@ body {
 }
 
 .conctact_info {
-    line-height: 24px
-}
-
-.conctact_info {
+		line-height: 24px;
     width: 240.52px;
     list-style: none;
 }
@@ -41,7 +38,6 @@ body {
 .header__menu-item {
     text-underline-position: under;
     text-decoration-skip-ink: none;
-    line-height: 24px;
     white-space: nowrap;
     margin-left: 11px;
     font-family: Raleway;
@@ -293,8 +289,6 @@ body {
     text-align: center;
     font-size: 18px;
     line-height: 21.13px;
-    text-align: center;
-
 }
 
 .media_list {
